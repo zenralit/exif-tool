@@ -3,3 +3,4 @@
 <code>pip install -r requirements.txt</code>
 <center><h1>запуск</h1></center>
 <code> python3 exif_tool.py</code>
+халява лох
