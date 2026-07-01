@@ -2,6 +2,10 @@
 
 A lightweight desktop utility written in **Python** for viewing and removing EXIF metadata from image files. The application provides quick access to commonly used metadata fields such as capture time, camera information, GPS coordinates, and image processing software.
 
+<p align="center">
+  <img src="exif.png" width="900">
+</p>
+
 ---
 
 ## Features
