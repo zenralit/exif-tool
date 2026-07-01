@@ -1,4 +1,4 @@
-# EXIF Tool
+# EXIF Inspector
 
 A lightweight desktop utility written in **Python** for viewing and removing EXIF metadata from image files. The application provides quick access to commonly used metadata fields such as capture time, camera information, GPS coordinates, and image processing software.
 
